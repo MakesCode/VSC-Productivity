@@ -1,0 +1,14 @@
+[
+  {
+    "key": "ctrl+n",
+    "command": "explorer.newFile"
+  },
+  {
+    "key": "ctrl+shift+n",
+    "command": "explorer.newFolder"
+  },
+  {
+    "key": "ctrl+o",
+    "command": "editor.action.goToDeclaration"
+  }
+]
